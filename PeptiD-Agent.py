@@ -36,9 +36,9 @@ NN_CAND     = 30
 SEED = 123; random.seed(SEED)
 
 SEQ_COL, SPE_COL, MIC_COL = (
-    "SEQUENCE - D-type amino acid substitution",
-    "TARGET ACTIVITY - TARGET SPECIES",
-    "TARGET ACTIVITY - CONCENTRATION",
+    "sequence_column_name", # D-amino acid sequence
+    "species_column_name", # Target species                
+    "MIC_column_name",  # Minimum Inhibitory Concentration (MIC) in µg/ml
 )
 
 def phys_feats(seq:str)->Dict[str,float]:
