@@ -45,19 +45,7 @@ For example, if `TOTAL_CHUNKS = 12`, the test data will be split into 12 equal s
 
 ---
 
-## 4. Usage
-
-Run the script with a chunk index as input:
-
-```bash
-python PeptiD-Agent.py 1
-```
-
-Here, `1` indicates which data subset (out of `TOTAL_CHUNKS`) you want to process.
-
----
-
-## 5. Dataset Path & Column Settings
+## 4. Dataset Path & Column Settings
 
 In the script, modify the dataset paths and column names according to your own data:
 
@@ -75,6 +63,18 @@ MIC_COL = 'MIC_column_name'
 - `MIC_COL`: column name for Minimum Inhibitory Concentration (MIC)  
 
 Make sure these correspond to your dataset schema.
+
+---
+
+## 5. Usage
+
+Run the script with a chunk index as input:
+
+```bash
+python PeptiD-Agent.py 1
+```
+
+Here, `1` indicates which data subset (out of `TOTAL_CHUNKS`) you want to process.
 
 ---
 
