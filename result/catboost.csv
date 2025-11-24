@@ -1,0 +1,777 @@
+SEQUENCE - D-type amino acid substitution,TARGET ACTIVITY - TARGET SPECIES,MIC_true,MIC_pred
+kwkikwphkwftml,A.  baumannii 102,3,2.0
+kwkikwphkwftml,A.  baumannii 104,3,2.0
+kwkikwphkwftml,A.  baumannii 106,4,2.0
+kwkikwphkwftml,A.  baumannii 110,3,2.0
+kwkikwphkwftml,A.  baumannii 114,3,2.0
+kwkikwphkwftml,A.  baumannii 117,3,2.0
+kwkikwphkwftml,A.  baumannii ATCC19606,4,2.0
+kwkikwphkwftml,E.coli 103,4,2.0
+kwkikwphkwftml,E.coli 110,2,2.0
+kwkikwphkwftml,E.coli 162,3,2.0
+kwkikwphkwftml,E.coli 166,4,2.0
+kwkikwphkwftml,E.coli 203,2,2.0
+kwkikwphkwftml,E.coli 207,4,2.0
+kwkikwphkwftml,E.coli 208,3,2.0
+kwkikwphkwftml,E.coli 210,3,2.0
+kwkikwphkwftml,E.coli CICC21530,3,2.0
+kwkikwphkwftml,E.coli CMCC44102,3,2.0
+kwkikwphkwftml,Ecoli ATCC25922,4,2.0
+kwkikwphkwftml,E.Faecium 1042,5,2.0
+kwkikwphkwftml,E.Faecium 105,4,2.0
+kwkikwphkwftml,E.Faecium 111,4,2.0
+kwkikwphkwftml,E.Faecium 21,4,2.0
+kwkikwphkwftml,K. pneumoniae 201,4,2.0
+kwkikwphkwftml,K. pneumoniae 209,4,2.0
+kwkikwphkwftml,K. pneumoniae 212,4,2.0
+kwkikwphkwftml,K. pneumoniae 826,4,2.0
+kwkikwphkwftml,K. pneumoniae ATCC BAA-1705,4,2.0
+kwkikwphkwftml,P. aeruginosa 108,4,2.0
+kwkikwphkwftml,P. aeruginosa 112,5,2.0
+kwkikwphkwftml,P. aeruginosa 116,4,2.0
+kwkikwphkwftml,P. aeruginosa 1162,5,2.0
+kwkikwphkwftml,PAO1,4,2.0
+kwkikwphkwftml,S. aureus 101,3,2.0
+kwkikwphkwftml,S. aureus 103,5,2.0
+kwkikwphkwftml,S. aureus 1032,5,2.0
+kwkikwphkwftml,S. aureus 129,5,2.0
+kwkikwphkwftml,S. aureus 181,5,2.0
+kwkikwphkwftml,S. aureus ATCC25923,4,2.0
+kwkikwphkwftml,S. aureus ATCC33592,5,2.0
+kwkikwphkwftml,S. aureus CICC25138,5,2.0
+kwkikwphkwftml,S. aureus CMCC26003,3,2.0
+kwkikwphkwftml,Salmonella enterica ATCC14028,3,2.0
+kwkikwphkwftml,Salmonella enterica CMCC50071,2,2.0
+kwkikwpskwftfl,A.  baumannii 102,3,2.0
+kwkikwpskwftfl,A.  baumannii 104,3,2.0
+kwkikwpskwftfl,A.  baumannii 106,3,2.0
+kwkikwpskwftfl,A.  baumannii 110,3,2.0
+kwkikwpskwftfl,A.  baumannii 114,4,2.0
+kwkikwpskwftfl,A.  baumannii 117,3,2.0
+kwkikwpskwftfl,A.  baumannii ATCC19606,4,2.0
+kwkikwpskwftfl,E.coli 103,3,2.0
+kwkikwpskwftfl,E.coli 110,4,2.0
+kwkikwpskwftfl,E.coli 162,3,2.0
+kwkikwpskwftfl,E.coli 166,2,2.0
+kwkikwpskwftfl,E.coli 203,3,2.0
+kwkikwpskwftfl,E.coli 207,3,2.0
+kwkikwpskwftfl,E.coli 208,3,2.0
+kwkikwpskwftfl,E.coli 210,3,2.0
+kwkikwpskwftfl,E.coli CICC21530,2,2.0
+kwkikwpskwftfl,E.coli CMCC44102,2,2.0
+kwkikwpskwftfl,Ecoli ATCC25922,3,2.0
+kwkikwpskwftfl,E.Faecium 1042,4,2.0
+kwkikwpskwftfl,E.Faecium 105,4,2.0
+kwkikwpskwftfl,E.Faecium 111,3,2.0
+kwkikwpskwftfl,E.Faecium 21,3,2.0
+kwkikwpskwftfl,K. pneumoniae 201,3,2.0
+kwkikwpskwftfl,K. pneumoniae 209,3,2.0
+kwkikwpskwftfl,K. pneumoniae 212,3,2.0
+kwkikwpskwftfl,K. pneumoniae 826,2,2.0
+kwkikwpskwftfl,K. pneumoniae ATCC BAA-1705,2,2.0
+kwkikwpskwftfl,P. aeruginosa 108,4,2.0
+kwkikwpskwftfl,P. aeruginosa 112,4,2.0
+kwkikwpskwftfl,P. aeruginosa 116,4,2.0
+kwkikwpskwftfl,P. aeruginosa 1162,4,2.0
+kwkikwpskwftfl,PAO1,3,2.0
+kwkikwpskwftfl,S. aureus 101,3,2.0
+kwkikwpskwftfl,S. aureus 103,4,2.0
+kwkikwpskwftfl,S. aureus 1032,4,2.0
+kwkikwpskwftfl,S. aureus 129,4,2.0
+kwkikwpskwftfl,S. aureus 181,4,2.0
+kwkikwpskwftfl,S. aureus ATCC25923,4,2.0
+kwkikwpskwftfl,S. aureus ATCC33592,4,2.0
+kwkikwpskwftfl,S. aureus CICC25138,3,2.0
+kwkikwpskwftfl,S. aureus CMCC26003,2,2.0
+kwkikwpskwftfl,Salmonella enterica ATCC14028,3,2.0
+kwkikwpskwftfl,Salmonella enterica CMCC50071,3,2.0
+kwkikrvskwftml,A.  baumannii 102,4,2.0
+kwkikrvskwftml,A.  baumannii 104,3,2.0
+kwkikrvskwftml,A.  baumannii 106,3,2.0
+kwkikrvskwftml,A.  baumannii 110,4,2.0
+kwkikrvskwftml,A.  baumannii 114,4,2.0
+kwkikrvskwftml,A.  baumannii 117,3,2.0
+kwkikrvskwftml,A.  baumannii ATCC19606,4,2.0
+kwkikrvskwftml,E.coli 103,4,2.0
+kwkikrvskwftml,E.coli 110,5,2.0
+kwkikrvskwftml,E.coli 162,3,2.0
+kwkikrvskwftml,E.coli 166,3,2.0
+kwkikrvskwftml,E.coli 203,3,2.0
+kwkikrvskwftml,E.coli 207,3,2.0
+kwkikrvskwftml,E.coli 208,4,2.0
+kwkikrvskwftml,E.coli 210,4,2.0
+kwkikrvskwftml,E.coli CICC21530,3,2.0
+kwkikrvskwftml,E.coli CMCC44102,3,2.0
+kwkikrvskwftml,Ecoli ATCC25922,4,2.0
+kwkikrvskwftml,E.Faecium 1042,4,2.0
+kwkikrvskwftml,E.Faecium 105,3,2.0
+kwkikrvskwftml,E.Faecium 111,3,2.0
+kwkikrvskwftml,E.Faecium 21,3,2.0
+kwkikrvskwftml,K. pneumoniae 201,5,2.0
+kwkikrvskwftml,K. pneumoniae 209,5,2.0
+kwkikrvskwftml,K. pneumoniae 212,5,2.0
+kwkikrvskwftml,K. pneumoniae 826,4,2.0
+kwkikrvskwftml,K. pneumoniae ATCC BAA-1705,3,2.0
+kwkikrvskwftml,P. aeruginosa 108,4,2.0
+kwkikrvskwftml,P. aeruginosa 112,4,2.0
+kwkikrvskwftml,P. aeruginosa 116,4,2.0
+kwkikrvskwftml,P. aeruginosa 1162,6,2.0
+kwkikrvskwftml,PAO1,4,2.0
+kwkikrvskwftml,S. aureus 101,5,2.0
+kwkikrvskwftml,S. aureus 103,5,2.0
+kwkikrvskwftml,S. aureus 1032,5,2.0
+kwkikrvskwftml,S. aureus 129,5,2.0
+kwkikrvskwftml,S. aureus 181,5,2.0
+kwkikrvskwftml,S. aureus ATCC25923,6,2.0
+kwkikrvskwftml,S. aureus ATCC33592,5,2.0
+kwkikrvskwftml,S. aureus CICC25138,5,2.0
+kwkikrvskwftml,S. aureus CMCC26003,3,2.0
+kwkikrvskwftml,Salmonella enterica ATCC14028,4,2.0
+kwkikrvskwftml,Salmonella enterica CMCC50071,4,2.0
+kwkikwpvrwfrkl,A.  baumannii 102,4,2.0
+kwkikwpvrwfrkl,A.  baumannii 104,4,2.0
+kwkikwpvrwfrkl,A.  baumannii 106,4,2.0
+kwkikwpvrwfrkl,A.  baumannii 110,4,2.0
+kwkikwpvrwfrkl,A.  baumannii 114,4,2.0
+kwkikwpvrwfrkl,A.  baumannii 117,4,2.0
+kwkikwpvrwfrkl,A.  baumannii ATCC19606,4,2.0
+kwkikwpvrwfrkl,E.coli 103,4,2.0
+kwkikwpvrwfrkl,E.coli 110,3,2.0
+kwkikwpvrwfrkl,E.coli 162,4,2.0
+kwkikwpvrwfrkl,E.coli 166,4,2.0
+kwkikwpvrwfrkl,E.coli 203,3,2.0
+kwkikwpvrwfrkl,E.coli 207,4,2.0
+kwkikwpvrwfrkl,E.coli 208,4,2.0
+kwkikwpvrwfrkl,E.coli 210,3,2.0
+kwkikwpvrwfrkl,E.coli CICC21530,4,2.0
+kwkikwpvrwfrkl,E.coli CMCC44102,4,2.0
+kwkikwpvrwfrkl,Ecoli ATCC25922,5,2.0
+kwkikwpvrwfrkl,E.Faecium 1042,4,2.0
+kwkikwpvrwfrkl,E.Faecium 105,3,2.0
+kwkikwpvrwfrkl,E.Faecium 111,3,2.0
+kwkikwpvrwfrkl,E.Faecium 21,3,2.0
+kwkikwpvrwfrkl,K. pneumoniae 201,4,2.0
+kwkikwpvrwfrkl,K. pneumoniae 209,4,2.0
+kwkikwpvrwfrkl,K. pneumoniae 212,4,2.0
+kwkikwpvrwfrkl,K. pneumoniae 826,5,2.0
+kwkikwpvrwfrkl,K. pneumoniae ATCC BAA-1705,4,2.0
+kwkikwpvrwfrkl,P. aeruginosa 108,3,2.0
+kwkikwpvrwfrkl,P. aeruginosa 112,4,2.0
+kwkikwpvrwfrkl,P. aeruginosa 116,4,2.0
+kwkikwpvrwfrkl,P. aeruginosa 1162,4,2.0
+kwkikwpvrwfrkl,PAO1,4,2.0
+kwkikwpvrwfrkl,S. aureus 101,3,2.0
+kwkikwpvrwfrkl,S. aureus 103,3,2.0
+kwkikwpvrwfrkl,S. aureus 1032,4,2.0
+kwkikwpvrwfrkl,S. aureus 129,4,2.0
+kwkikwpvrwfrkl,S. aureus 181,3,2.0
+kwkikwpvrwfrkl,S. aureus ATCC25923,3,2.0
+kwkikwpvrwfrkl,S. aureus ATCC33592,4,2.0
+kwkikwpvrwfrkl,S. aureus CICC25138,4,2.0
+kwkikwpvrwfrkl,S. aureus CMCC26003,3,2.0
+kwkikwpvrwfrkl,Salmonella enterica ATCC14028,3,2.0
+kwkikwpvrwfrkl,Salmonella enterica CMCC50071,2,2.0
+kwkikwpshwfrml,A.  baumannii 114,3,2.0
+kwkikwpshwfrml,A.  baumannii ATCC19606,3,2.0
+kwkikwpshwfrml,E.coli 110,4,2.0
+kwkikwpshwfrml,E.coli 162,5,2.0
+kwkikwpshwfrml,E.coli 203,3,2.0
+kwkikwpshwfrml,Ecoli ATCC25922,4,2.0
+kwkikwpshwfrml,K. pneumoniae 201,3,2.0
+kwkikwpshwfrml,P. aeruginosa 112,5,2.0
+kwkikwpshwfrml,S. aureus 101,3,2.0
+kwkikwpshwfrml,S. aureus 1032,4,2.0
+kwkikwpshwfrml,S. aureus ATCC33592,4,2.0
+kwkikwpshwfrml,Salmonella enterica CMCC50071,2,2.0
+kwkikwpvkw,A.  baumannii 102,5,2.0
+kwkikwpvkw,A.  baumannii 104,5,2.0
+kwkikwpvkw,A.  baumannii 106,4,2.0
+kwkikwpvkw,A.  baumannii 110,5,2.0
+kwkikwpvkw,A.  baumannii 114,6,2.0
+kwkikwpvkw,A.  baumannii 117,5,2.0
+kwkikwpvkw,A.  baumannii ATCC19606,7,2.0
+kwkikwpvkw,E.coli 103,4,2.0
+kwkikwpvkw,E.coli 110,5,2.0
+kwkikwpvkw,E.coli 162,4,2.0
+kwkikwpvkw,E.coli 166,4,2.0
+kwkikwpvkw,E.coli 203,3,2.0
+kwkikwpvkw,E.coli 207,4,2.0
+kwkikwpvkw,E.coli 208,4,2.0
+kwkikwpvkw,E.coli 210,5,2.0
+kwkikwpvkw,E.coli CICC21530,4,2.0
+kwkikwpvkw,E.coli CMCC44102,3,2.0
+kwkikwpvkw,Ecoli ATCC25922,4,2.0
+kwkikwpvkw,E.Faecium 1042,6,2.0
+kwkikwpvkw,E.Faecium 105,6,2.0
+kwkikwpvkw,E.Faecium 111,5,2.0
+kwkikwpvkw,E.Faecium 21,5,2.0
+kwkikwpvkw,K. pneumoniae 201,4,2.0
+kwkikwpvkw,K. pneumoniae 209,5,2.0
+kwkikwpvkw,K. pneumoniae 212,6,2.0
+kwkikwpvkw,K. pneumoniae 826,4,2.0
+kwkikwpvkw,K. pneumoniae ATCC BAA-1705,6,2.0
+kwkikwpvkw,P. aeruginosa 108,3,2.0
+kwkikwpvkw,P. aeruginosa 112,5,2.0
+kwkikwpvkw,P. aeruginosa 116,6,2.0
+kwkikwpvkw,P. aeruginosa 1162,5,2.0
+kwkikwpvkw,PAO1,4,2.0
+kwkikwpvkw,S. aureus 101,6,2.0
+kwkikwpvkw,S. aureus 103,5,2.0
+kwkikwpvkw,S. aureus 1032,5,2.0
+kwkikwpvkw,S. aureus 129,5,2.0
+kwkikwpvkw,S. aureus 181,6,2.0
+kwkikwpvkw,S. aureus ATCC25923,5,2.0
+kwkikwpvkw,S. aureus ATCC33592,5,2.0
+kwkikwpvkw,S. aureus CICC25138,6,2.0
+kwkikwpvkw,S. aureus CMCC26003,5,2.0
+kwkikwpvkw,Salmonella enterica ATCC14028,4,2.0
+kwkikwpvkw,Salmonella enterica CMCC50071,2,2.0
+wkikwpvkwf,A.  baumannii 102,5,2.0
+wkikwpvkwf,A.  baumannii 104,5,2.0
+wkikwpvkwf,A.  baumannii 106,5,2.0
+wkikwpvkwf,A.  baumannii 110,5,2.0
+wkikwpvkwf,A.  baumannii 114,5,2.0
+wkikwpvkwf,A.  baumannii 117,5,2.0
+wkikwpvkwf,A.  baumannii ATCC19606,5,2.0
+wkikwpvkwf,E.coli 103,7,2.0
+wkikwpvkwf,E.coli 110,4,2.0
+wkikwpvkwf,E.coli 166,5,2.0
+wkikwpvkwf,E.coli 203,4,2.0
+wkikwpvkwf,E.coli 207,5,2.0
+wkikwpvkwf,E.coli 208,5,2.0
+wkikwpvkwf,E.coli 210,5,2.0
+wkikwpvkwf,E.coli CICC21530,5,2.0
+wkikwpvkwf,E.coli CMCC44102,4,2.0
+wkikwpvkwf,Ecoli ATCC25922,5,2.0
+wkikwpvkwf,E.Faecium 1042,5,2.0
+wkikwpvkwf,E.Faecium 105,4,2.0
+wkikwpvkwf,E.Faecium 111,4,2.0
+wkikwpvkwf,E.Faecium 21,4,2.0
+wkikwpvkwf,K. pneumoniae 201,6,2.0
+wkikwpvkwf,K. pneumoniae 209,5,2.0
+wkikwpvkwf,K. pneumoniae 212,6,2.0
+wkikwpvkwf,K. pneumoniae 826,5,2.0
+wkikwpvkwf,K. pneumoniae ATCC BAA-1705,5,2.0
+wkikwpvkwf,P. aeruginosa 108,4,2.0
+wkikwpvkwf,P. aeruginosa 112,5,2.0
+wkikwpvkwf,P. aeruginosa 116,4,2.0
+wkikwpvkwf,P. aeruginosa 1162,5,2.0
+wkikwpvkwf,PAO1,5,2.0
+wkikwpvkwf,S. aureus 101,4,2.0
+wkikwpvkwf,S. aureus 103,5,2.0
+wkikwpvkwf,S. aureus 1032,5,2.0
+wkikwpvkwf,S. aureus 129,5,2.0
+wkikwpvkwf,S. aureus 181,5,2.0
+wkikwpvkwf,S. aureus ATCC25923,4,2.0
+wkikwpvkwf,S. aureus ATCC33592,5,2.0
+wkikwpvkwf,S. aureus CICC25138,5,2.0
+wkikwpvkwf,S. aureus CMCC26003,2,2.0
+wkikwpvkwf,Salmonella enterica ATCC14028,4,2.0
+wkikwpvkwf,Salmonella enterica CMCC50071,1,2.0
+kikwpvkwfk,A.  baumannii 102,7,2.0
+kikwpvkwfk,A.  baumannii 106,8,2.0
+kikwpvkwfk,A.  baumannii ATCC19606,8,2.0
+kikwpvkwfk,E.coli 103,7,2.0
+kikwpvkwfk,E.coli 166,7,2.0
+kikwpvkwfk,E.coli 210,8,2.0
+kikwpvkwfk,E.coli CICC21530,5,2.0
+kikwpvkwfk,E.coli CMCC44102,5,2.0
+kikwpvkwfk,Ecoli ATCC25922,7,2.0
+kikwpvkwfk,E.Faecium 1042,7,2.0
+kikwpvkwfk,E.Faecium 105,7,2.0
+kikwpvkwfk,E.Faecium 111,7,2.0
+kikwpvkwfk,K. pneumoniae 201,8,2.0
+kikwpvkwfk,K. pneumoniae 826,6,2.0
+kikwpvkwfk,K. pneumoniae ATCC BAA-1705,7,2.0
+kikwpvkwfk,P. aeruginosa 116,5,2.0
+kikwpvkwfk,PAO1,7,2.0
+kikwpvkwfk,S. aureus 101,7,2.0
+kikwpvkwfk,S. aureus 103,8,2.0
+kikwpvkwfk,S. aureus 129,7,2.0
+kikwpvkwfk,S. aureus 181,6,2.0
+kikwpvkwfk,S. aureus ATCC25923,7,2.0
+kikwpvkwfk,S. aureus CICC25138,7,2.0
+kikwpvkwfk,S. aureus CMCC26003,4,2.0
+kikwpvkwfk,Salmonella enterica ATCC14028,7,2.0
+kikwpvkwfk,Salmonella enterica CMCC50071,3,2.0
+ikwpvkwfkm,A.  baumannii 102,8,2.0
+ikwpvkwfkm,A.  baumannii 106,8,2.0
+ikwpvkwfkm,A.  baumannii ATCC19606,8,2.0
+ikwpvkwfkm,E.coli 103,8,2.0
+ikwpvkwfkm,E.coli 166,8,2.0
+ikwpvkwfkm,E.coli 210,8,2.0
+ikwpvkwfkm,E.coli CICC21530,7,2.0
+ikwpvkwfkm,E.coli CMCC44102,6,2.0
+ikwpvkwfkm,Ecoli ATCC25922,8,2.0
+ikwpvkwfkm,E.Faecium 1042,7,2.0
+ikwpvkwfkm,E.Faecium 105,7,2.0
+ikwpvkwfkm,E.Faecium 111,7,2.0
+ikwpvkwfkm,K. pneumoniae 826,7,2.0
+ikwpvkwfkm,K. pneumoniae ATCC BAA-1705,8,2.0
+ikwpvkwfkm,P. aeruginosa 116,6,2.0
+ikwpvkwfkm,PAO1,8,2.0
+ikwpvkwfkm,S. aureus 101,8,2.0
+ikwpvkwfkm,S. aureus 103,7,2.0
+ikwpvkwfkm,S. aureus 129,7,2.0
+ikwpvkwfkm,S. aureus 181,6,2.0
+ikwpvkwfkm,S. aureus ATCC25923,7,2.0
+ikwpvkwfkm,S. aureus CICC25138,7,2.0
+ikwpvkwfkm,S. aureus CMCC26003,3,2.0
+ikwpvkwfkm,Salmonella enterica ATCC14028,8,2.0
+ikwpvkwfkm,Salmonella enterica CMCC50071,3,2.0
+kwpvkwfkml,A.  baumannii 102,5,2.0
+kwpvkwfkml,A.  baumannii 104,6,2.0
+kwpvkwfkml,A.  baumannii 106,5,2.0
+kwpvkwfkml,A.  baumannii 110,5,2.0
+kwpvkwfkml,A.  baumannii 114,5,2.0
+kwpvkwfkml,A.  baumannii 117,5,2.0
+kwpvkwfkml,A.  baumannii ATCC19606,5,2.0
+kwpvkwfkml,E.coli 103,6,2.0
+kwpvkwfkml,E.coli 110,5,2.0
+kwpvkwfkml,E.coli 162,6,2.0
+kwpvkwfkml,E.coli 166,6,2.0
+kwpvkwfkml,E.coli 203,5,2.0
+kwpvkwfkml,E.coli 207,6,2.0
+kwpvkwfkml,E.coli 208,6,2.0
+kwpvkwfkml,E.coli 210,6,2.0
+kwpvkwfkml,E.coli CICC21530,5,2.0
+kwpvkwfkml,E.coli CMCC44102,5,2.0
+kwpvkwfkml,Ecoli ATCC25922,6,2.0
+kwpvkwfkml,E.Faecium 1042,6,2.0
+kwpvkwfkml,E.Faecium 105,6,2.0
+kwpvkwfkml,E.Faecium 111,6,2.0
+kwpvkwfkml,E.Faecium 21,6,2.0
+kwpvkwfkml,K. pneumoniae 201,7,2.0
+kwpvkwfkml,K. pneumoniae 209,7,2.0
+kwpvkwfkml,K. pneumoniae 212,7,2.0
+kwpvkwfkml,K. pneumoniae 826,7,2.0
+kwpvkwfkml,K. pneumoniae ATCC BAA-1705,6,2.0
+kwpvkwfkml,P. aeruginosa 108,6,2.0
+kwpvkwfkml,P. aeruginosa 112,6,2.0
+kwpvkwfkml,P. aeruginosa 116,5,2.0
+kwpvkwfkml,P. aeruginosa 1162,5,2.0
+kwpvkwfkml,PAO1,5,2.0
+kwpvkwfkml,S. aureus 101,5,2.0
+kwpvkwfkml,S. aureus 103,5,2.0
+kwpvkwfkml,S. aureus 1032,6,2.0
+kwpvkwfkml,S. aureus 129,5,2.0
+kwpvkwfkml,S. aureus 181,5,2.0
+kwpvkwfkml,S. aureus ATCC25923,6,2.0
+kwpvkwfkml,S. aureus ATCC33592,5,2.0
+kwpvkwfkml,S. aureus CICC25138,5,2.0
+kwpvkwfkml,S. aureus CMCC26003,3,2.0
+kwpvkwfkml,Salmonella enterica ATCC14028,6,2.0
+kwpvkwfkml,Salmonella enterica CMCC50071,3,2.0
+kwkikwpvkwf,A.  baumannii 104,5,2.0
+kwkikwpvkwf,A.  baumannii 106,5,2.0
+kwkikwpvkwf,A.  baumannii 110,5,2.0
+kwkikwpvkwf,A.  baumannii 114,5,2.0
+kwkikwpvkwf,A.  baumannii 117,5,2.0
+kwkikwpvkwf,A.  baumannii ATCC19606,4,2.0
+kwkikwpvkwf,E.coli 103,5,2.0
+kwkikwpvkwf,E.coli 110,3,2.0
+kwkikwpvkwf,E.coli 162,4,2.0
+kwkikwpvkwf,E.coli 203,4,2.0
+kwkikwpvkwf,E.coli 207,4,2.0
+kwkikwpvkwf,E.coli 208,4,2.0
+kwkikwpvkwf,E.coli 210,4,2.0
+kwkikwpvkwf,E.coli CICC21530,4,2.0
+kwkikwpvkwf,E.coli CMCC44102,4,2.0
+kwkikwpvkwf,Ecoli ATCC25922,5,2.0
+kwkikwpvkwf,E.Faecium 1042,5,2.0
+kwkikwpvkwf,E.Faecium 105,4,2.0
+kwkikwpvkwf,E.Faecium 111,4,2.0
+kwkikwpvkwf,E.Faecium 21,4,2.0
+kwkikwpvkwf,K. pneumoniae 201,5,2.0
+kwkikwpvkwf,K. pneumoniae 209,4,2.0
+kwkikwpvkwf,K. pneumoniae 212,6,2.0
+kwkikwpvkwf,K. pneumoniae 826,4,2.0
+kwkikwpvkwf,K. pneumoniae ATCC BAA-1705,4,2.0
+kwkikwpvkwf,P. aeruginosa 108,4,2.0
+kwkikwpvkwf,P. aeruginosa 112,5,2.0
+kwkikwpvkwf,P. aeruginosa 116,3,2.0
+kwkikwpvkwf,P. aeruginosa 1162,4,2.0
+kwkikwpvkwf,PAO1,4,2.0
+kwkikwpvkwf,S. aureus 101,5,2.0
+kwkikwpvkwf,S. aureus 103,4,2.0
+kwkikwpvkwf,S. aureus 1032,5,2.0
+kwkikwpvkwf,S. aureus ATCC25923,5,2.0
+kwkikwpvkwf,S. aureus ATCC33592,5,2.0
+kwkikwpvkwf,S. aureus CICC25138,5,2.0
+kwkikwpvkwf,S. aureus CMCC26003,4,2.0
+kwkikwpvkwf,Salmonella enterica ATCC14028,5,2.0
+kwkikwpvkwf,Salmonella enterica CMCC50071,3,2.0
+ikwpvkwfkml,A.  baumannii 114,4,2.0
+ikwpvkwfkml,A.  baumannii ATCC19606,4,2.0
+ikwpvkwfkml,E.coli 103,4,2.0
+ikwpvkwfkml,E.coli 110,4,2.0
+ikwpvkwfkml,E.coli 162,5,2.0
+ikwpvkwfkml,E.coli 203,4,2.0
+ikwpvkwfkml,E.coli 207,5,2.0
+ikwpvkwfkml,E.coli 210,5,2.0
+ikwpvkwfkml,E.coli CICC21530,4,2.0
+ikwpvkwfkml,E.coli CMCC44102,4,2.0
+ikwpvkwfkml,Ecoli ATCC25922,4,2.0
+ikwpvkwfkml,K. pneumoniae 201,4,2.0
+ikwpvkwfkml,P. aeruginosa 112,6,2.0
+ikwpvkwfkml,S. aureus 101,5,2.0
+ikwpvkwfkml,S. aureus 103,4,2.0
+ikwpvkwfkml,S. aureus 1032,5,2.0
+ikwpvkwfkml,S. aureus ATCC33592,5,2.0
+ikwpvkwfkml,S. aureus CMCC26003,3,2.0
+ikwpvkwfkml,Salmonella enterica CMCC50071,3,2.0
+wkikwpvkwfk,A.  baumannii 114,6,2.0
+wkikwpvkwfk,A.  baumannii ATCC19606,6,2.0
+wkikwpvkwfk,E.coli 110,4,2.0
+wkikwpvkwfk,E.coli 162,5,2.0
+wkikwpvkwfk,E.coli 203,4,2.0
+wkikwpvkwfk,Ecoli ATCC25922,4,2.0
+wkikwpvkwfk,K. pneumoniae 201,5,2.0
+wkikwpvkwfk,P. aeruginosa 112,5,2.0
+wkikwpvkwfk,S. aureus 101,5,2.0
+wkikwpvkwfk,S. aureus 1032,5,2.0
+wkikwpvkwfk,S. aureus ATCC33592,5,2.0
+wkikwpvkwfk,Salmonella enterica CMCC50071,2,2.0
+kikwpvkwfkm,A.  baumannii 114,7,2.0
+kikwpvkwfkm,A.  baumannii ATCC19606,7,2.0
+kikwpvkwfkm,E.coli 110,5,2.0
+kikwpvkwfkm,E.coli 162,5,2.0
+kikwpvkwfkm,E.coli 203,5,2.0
+kikwpvkwfkm,Ecoli ATCC25922,5,2.0
+kikwpvkwfkm,K. pneumoniae 201,6,2.0
+kikwpvkwfkm,P. aeruginosa 112,6,2.0
+kikwpvkwfkm,S. aureus 101,6,2.0
+kikwpvkwfkm,S. aureus 1032,6,2.0
+kikwpvkwfkm,S. aureus ATCC33592,6,2.0
+kikwpvkwfkm,Salmonella enterica CMCC50071,3,2.0
+wkikwpvkwfkm,A.  baumannii 114,4,2.0
+wkikwpvkwfkm,A.  baumannii ATCC19606,5,2.0
+wkikwpvkwfkm,E.coli 110,4,2.0
+wkikwpvkwfkm,E.coli 162,4,2.0
+wkikwpvkwfkm,E.coli 203,4,2.0
+wkikwpvkwfkm,Ecoli ATCC25922,4,2.0
+wkikwpvkwfkm,K. pneumoniae 201,5,2.0
+wkikwpvkwfkm,P. aeruginosa 112,5,2.0
+wkikwpvkwfkm,S. aureus 101,4,2.0
+wkikwpvkwfkm,S. aureus 1032,5,2.0
+wkikwpvkwfkm,S. aureus ATCC33592,5,2.0
+wkikwpvkwfkm,Salmonella enterica CMCC50071,2,2.0
+kikwpvkwfkml,A.  baumannii 114,3,2.0
+kikwpvkwfkml,A.  baumannii ATCC19606,3,2.0
+kikwpvkwfkml,E.coli 110,3,2.0
+kikwpvkwfkml,E.coli 162,3,2.0
+kikwpvkwfkml,E.coli 203,3,2.0
+kikwpvkwfkml,Ecoli ATCC25922,3,2.0
+kikwpvkwfkml,K. pneumoniae 201,4,2.0
+kikwpvkwfkml,P. aeruginosa 112,5,2.0
+kikwpvkwfkml,S. aureus 101,4,2.0
+kikwpvkwfkml,S. aureus 1032,4,2.0
+kikwpvkwfkml,S. aureus ATCC33592,3,2.0
+kikwpvkwfkml,Salmonella enterica CMCC50071,2,2.0
+kwkikwpvkwfkm,A.  baumannii 114,4,2.0
+kwkikwpvkwfkm,A.  baumannii ATCC19606,4,2.0
+kwkikwpvkwfkm,E.coli 110,4,2.0
+kwkikwpvkwfkm,E.coli 162,5,2.0
+kwkikwpvkwfkm,E.coli 203,4,2.0
+kwkikwpvkwfkm,Ecoli ATCC25922,4,2.0
+kwkikwpvkwfkm,K. pneumoniae 201,5,2.0
+kwkikwpvkwfkm,P. aeruginosa 112,5,2.0
+kwkikwpvkwfkm,S. aureus 101,4,2.0
+kwkikwpvkwfkm,S. aureus 1032,5,2.0
+kwkikwpvkwfkm,S. aureus ATCC33592,4,2.0
+kwkikwpvkwfkm,Salmonella enterica CMCC50071,4,2.0
+kwkikwpvkwfk,A.  baumannii 102,4,2.0
+kwkikwpvkwfk,A.  baumannii 104,5,2.0
+kwkikwpvkwfk,A.  baumannii 106,5,2.0
+kwkikwpvkwfk,A.  baumannii 110,5,2.0
+kwkikwpvkwfk,A.  baumannii 114,5,2.0
+kwkikwpvkwfk,A.  baumannii 117,5,2.0
+kwkikwpvkwfk,A.  baumannii ATCC19606,6,2.0
+kwkikwpvkwfk,E.coli 103,4,2.0
+kwkikwpvkwfk,E.coli 110,4,2.0
+kwkikwpvkwfk,E.coli 162,3,2.0
+kwkikwpvkwfk,E.coli 166,4,2.0
+kwkikwpvkwfk,E.coli 203,3,2.0
+kwkikwpvkwfk,E.coli 207,4,2.0
+kwkikwpvkwfk,E.coli 208,4,2.0
+kwkikwpvkwfk,E.coli 210,4,2.0
+kwkikwpvkwfk,E.coli CICC21530,3,2.0
+kwkikwpvkwfk,E.coli CMCC44102,3,2.0
+kwkikwpvkwfk,Ecoli ATCC25922,4,2.0
+kwkikwpvkwfk,E.Faecium 1042,4,2.0
+kwkikwpvkwfk,E.Faecium 105,4,2.0
+kwkikwpvkwfk,E.Faecium 111,4,2.0
+kwkikwpvkwfk,E.Faecium 21,4,2.0
+kwkikwpvkwfk,K. pneumoniae 201,5,2.0
+kwkikwpvkwfk,K. pneumoniae 209,4,2.0
+kwkikwpvkwfk,K. pneumoniae 212,5,2.0
+kwkikwpvkwfk,K. pneumoniae 826,4,2.0
+kwkikwpvkwfk,K. pneumoniae ATCC BAA-1705,4,2.0
+kwkikwpvkwfk,P. aeruginosa 108,4,2.0
+kwkikwpvkwfk,P. aeruginosa 112,4,2.0
+kwkikwpvkwfk,P. aeruginosa 116,3,2.0
+kwkikwpvkwfk,P. aeruginosa 1162,5,2.0
+kwkikwpvkwfk,PAO1,4,2.0
+kwkikwpvkwfk,S. aureus 101,4,2.0
+kwkikwpvkwfk,S. aureus 103,5,2.0
+kwkikwpvkwfk,S. aureus 1032,5,2.0
+kwkikwpvkwfk,S. aureus 129,5,2.0
+kwkikwpvkwfk,S. aureus 181,4,2.0
+kwkikwpvkwfk,S. aureus ATCC25923,4,2.0
+kwkikwpvkwfk,S. aureus ATCC33592,4,2.0
+kwkikwpvkwfk,S. aureus CICC25138,4,2.0
+kwkikwpvkwfk,S. aureus CMCC26003,3,2.0
+kwkikwpvkwfk,Salmonella enterica ATCC14028,4,2.0
+kwkikwpvkwfk,Salmonella enterica CMCC50071,3,2.0
+wkikwpvkwfkml,A.  baumannii 102,3,2.0
+wkikwpvkwfkml,A.  baumannii 104,4,2.0
+wkikwpvkwfkml,A.  baumannii 106,3,2.0
+wkikwpvkwfkml,A.  baumannii 110,3,2.0
+wkikwpvkwfkml,A.  baumannii 114,3,2.0
+wkikwpvkwfkml,A.  baumannii 117,3,2.0
+wkikwpvkwfkml,A.  baumannii ATCC19606,3,2.0
+wkikwpvkwfkml,E.coli 103,3,2.0
+wkikwpvkwfkml,E.coli 110,3,2.0
+wkikwpvkwfkml,E.coli 162,3,2.0
+wkikwpvkwfkml,E.coli 166,3,2.0
+wkikwpvkwfkml,E.coli 203,3,2.0
+wkikwpvkwfkml,E.coli 207,3,2.0
+wkikwpvkwfkml,E.coli 208,4,2.0
+wkikwpvkwfkml,E.coli 210,4,2.0
+wkikwpvkwfkml,E.coli CICC21530,3,2.0
+wkikwpvkwfkml,E.coli CMCC44102,2,2.0
+wkikwpvkwfkml,Ecoli ATCC25922,3,2.0
+wkikwpvkwfkml,E.Faecium 1042,3,2.0
+wkikwpvkwfkml,E.Faecium 105,3,2.0
+wkikwpvkwfkml,E.Faecium 111,3,2.0
+wkikwpvkwfkml,E.Faecium 21,3,2.0
+wkikwpvkwfkml,K. pneumoniae 201,4,2.0
+wkikwpvkwfkml,K. pneumoniae 209,3,2.0
+wkikwpvkwfkml,K. pneumoniae 212,4,2.0
+wkikwpvkwfkml,K. pneumoniae 826,3,2.0
+wkikwpvkwfkml,K. pneumoniae ATCC BAA-1705,3,2.0
+wkikwpvkwfkml,P. aeruginosa 108,4,2.0
+wkikwpvkwfkml,P. aeruginosa 112,4,2.0
+wkikwpvkwfkml,P. aeruginosa 116,3,2.0
+wkikwpvkwfkml,P. aeruginosa 1162,4,2.0
+wkikwpvkwfkml,PAO1,4,2.0
+wkikwpvkwfkml,S. aureus 101,3,2.0
+wkikwpvkwfkml,S. aureus 103,3,2.0
+wkikwpvkwfkml,S. aureus 129,4,2.0
+wkikwpvkwfkml,S. aureus 181,3,2.0
+wkikwpvkwfkml,S. aureus ATCC25923,3,2.0
+wkikwpvkwfkml,S. aureus ATCC33592,3,2.0
+wkikwpvkwfkml,S. aureus CICC25138,2,2.0
+wkikwpvkwfkml,S. aureus CMCC26003,2,2.0
+wkikwpvkwfkml,Salmonella enterica ATCC14028,4,2.0
+wkikwpvkwfkml,Salmonella enterica CMCC50071,3,2.0
+kwkikwpvkwfkml,A.  baumannii 102,2,2.0
+kwkikwpvkwfkml,A.  baumannii 104,2,2.0
+kwkikwpvkwfkml,A.  baumannii 106,2,2.0
+kwkikwpvkwfkml,A.  baumannii 110,1,2.0
+kwkikwpvkwfkml,A.  baumannii 114,2,2.0
+kwkikwpvkwfkml,A.  baumannii 117,2,2.0
+kwkikwpvkwfkml,A.  baumannii ATCC19606,1,2.0
+kwkikwpvkwfkml,E.coli 103,2,2.0
+kwkikwpvkwfkml,E.coli 110,2,2.0
+kwkikwpvkwfkml,E.coli 162,2,2.0
+kwkikwpvkwfkml,E.coli 166,2,2.0
+kwkikwpvkwfkml,E.coli 203,2,2.0
+kwkikwpvkwfkml,E.coli 207,3,2.0
+kwkikwpvkwfkml,E.coli 208,2,2.0
+kwkikwpvkwfkml,E.coli 210,1,2.0
+kwkikwpvkwfkml,E.coli CICC21530,1,2.0
+kwkikwpvkwfkml,E.coli CMCC44102,2,2.0
+kwkikwpvkwfkml,Ecoli ATCC25922,3,2.0
+kwkikwpvkwfkml,E.Faecium 1042,2,2.0
+kwkikwpvkwfkml,E.Faecium 105,2,2.0
+kwkikwpvkwfkml,E.Faecium 111,2,2.0
+kwkikwpvkwfkml,E.Faecium 21,2,2.0
+kwkikwpvkwfkml,K. pneumoniae 201,3,2.0
+kwkikwpvkwfkml,K. pneumoniae 209,2,2.0
+kwkikwpvkwfkml,K. pneumoniae 212,3,2.0
+kwkikwpvkwfkml,K. pneumoniae 826,3,2.0
+kwkikwpvkwfkml,K. pneumoniae ATCC BAA-1705,3,2.0
+kwkikwpvkwfkml,P. aeruginosa 108,3,2.0
+kwkikwpvkwfkml,P. aeruginosa 112,3,2.0
+kwkikwpvkwfkml,P. aeruginosa 116,3,2.0
+kwkikwpvkwfkml,P. aeruginosa 1162,3,2.0
+kwkikwpvkwfkml,PAO1,3,2.0
+kwkikwpvkwfkml,S. aureus 101,2,2.0
+kwkikwpvkwfkml,S. aureus 103,2,2.0
+kwkikwpvkwfkml,S. aureus 1032,2,2.0
+kwkikwpvkwfkml,S. aureus 129,2,2.0
+kwkikwpvkwfkml,S. aureus 181,2,2.0
+kwkikwpvkwfkml,S. aureus ATCC25923,3,2.0
+kwkikwpvkwfkml,S. aureus ATCC33592,2,2.0
+kwkikwpvkwfkml,S. aureus CICC25138,3,2.0
+kwkikwpvkwfkml,S. aureus CMCC26003,1,2.0
+kwkikwpvkwfkml,Salmonella enterica ATCC14028,2,2.0
+kwkikwpvkwfkml,Salmonella enterica CMCC50071,2,2.0
+kwkikw,A.  baumannii 114,7,2.0
+kwkikw,A.  baumannii ATCC19606,8,2.0
+kwkikw,E.coli 110,6,2.0
+kwkikw,E.coli 162,6,2.0
+kwkikw,E.coli 203,6,2.0
+kwkikw,Ecoli ATCC25922,6,2.0
+kwkikw,K. pneumoniae 201,7,2.0
+kwkikw,P. aeruginosa 112,7,2.0
+kwkikw,S. aureus 101,7,2.0
+kwkikw,S. aureus 1032,7,2.0
+kwkikw,S. aureus ATCC33592,6,2.0
+kwkikw,Salmonella enterica CMCC50071,2,2.0
+fkklkklfsklwnwk,A.  baumannii 102,3,2.0
+fkklkklfsklwnwk,A.  baumannii 104,3,2.0
+fkklkklfsklwnwk,A.  baumannii 106,4,2.0
+fkklkklfsklwnwk,A.  baumannii 110,3,2.0
+fkklkklfsklwnwk,A.  baumannii 114,3,2.0
+fkklkklfsklwnwk,A.  baumannii 117,3,2.0
+fkklkklfsklwnwk,A.  baumannii ATCC19606,3,2.0
+fkklkklfsklwnwk,E.coli 103,4,2.0
+fkklkklfsklwnwk,E.coli 110,4,2.0
+fkklkklfsklwnwk,E.coli 162,4,2.0
+fkklkklfsklwnwk,E.coli 166,3,2.0
+fkklkklfsklwnwk,E.coli 203,3,2.0
+fkklkklfsklwnwk,E.coli 207,4,2.0
+fkklkklfsklwnwk,E.coli 208,4,2.0
+fkklkklfsklwnwk,E.coli 210,4,2.0
+fkklkklfsklwnwk,E.coli CICC21530,3,2.0
+fkklkklfsklwnwk,E.coli CMCC44102,4,2.0
+fkklkklfsklwnwk,Ecoli ATCC25922,3,2.0
+fkklkklfsklwnwk,E.Faecium 1042,3,2.0
+fkklkklfsklwnwk,E.Faecium 105,3,2.0
+fkklkklfsklwnwk,E.Faecium 111,3,2.0
+fkklkklfsklwnwk,E.Faecium 21,3,2.0
+fkklkklfsklwnwk,K. pneumoniae 201,5,2.0
+fkklkklfsklwnwk,K. pneumoniae 209,4,2.0
+fkklkklfsklwnwk,K. pneumoniae 212,4,2.0
+fkklkklfsklwnwk,K. pneumoniae 826,4,2.0
+fkklkklfsklwnwk,K. pneumoniae ATCC BAA-1705,4,2.0
+fkklkklfsklwnwk,P. aeruginosa 108,5,2.0
+fkklkklfsklwnwk,P. aeruginosa 112,4,2.0
+fkklkklfsklwnwk,P. aeruginosa 116,3,2.0
+fkklkklfsklwnwk,P. aeruginosa 119,5,2.0
+fkklkklfsklwnwk,P. aeruginosa 1162,4,2.0
+fkklkklfsklwnwk,PAO1,3,2.0
+fkklkklfsklwnwk,S. aureus 101,4,2.0
+fkklkklfsklwnwk,S. aureus 103,3,2.0
+fkklkklfsklwnwk,S. aureus 1032,4,2.0
+fkklkklfsklwnwk,S. aureus 129,4,2.0
+fkklkklfsklwnwk,S. aureus 181,4,2.0
+fkklkklfsklwnwk,S. aureus ATCC25923,5,2.0
+fkklkklfsklwnwk,S. aureus ATCC33592,4,2.0
+fkklkklfsklwnwk,S. aureus CICC25138,4,2.0
+fkklkklfsklwnwk,S. aureus CMCC26003,3,2.0
+kwkikwpvkwfkml,E. faecalis 1042,2,2.0
+kwkikwpvkwfkml,E. faecalis 111,2,2.0
+kwkikwpvkwfkml,E. faecalis 21,2,2.0
+kwkikwpvkwfkml,S. aureus CMCC26003,1,2.0
+kwkikwpvkwfkml,S. aureus ATCC25923,2,2.0
+kwkikwpvkwfkml,S. aureus 103,2,2.0
+kwkikwpvkwfkml,S. aureus 1032,2,2.0
+kwkikwpvkwfkml,S. aureus 8170,2,2.0
+kwkikwpvkwfkml,S. aureus 4135,2,2.0
+kwkikwpvkwfkml,K. pneumoniae ATCC BAA-1705,2,2.0
+kwkikwpvkwfkml,K. pneumoniae 209,2,2.0
+kwkikwpvkwfkml,K. pneumoniae 212,3,2.0
+kwkikwpvkwfkml,K. pneumoniae 826,3,2.0
+kwkikwpvkwfkml,A.  baumannii ATCC19606,1,2.0
+kwkikwpvkwfkml,A.  baumannii 102,2,2.0
+kwkikwpvkwfkml,A.  baumannii 104,2,2.0
+kwkikwpvkwfkml,A.  baumannii 106,2,2.0
+kwkikwpvkwfkml,A.  baumannii 110,1,2.0
+kwkikwpvkwfkml,A.  baumannii 114,2,2.0
+kwkikwpvkwfkml,A.  baumannii 117,2,2.0
+kwkikwpvkwfkml,PAO1,1,2.0
+kwkikwpvkwfkml,P. aeruginosa 108,3,2.0
+kwkikwpvkwfkml,P. aeruginosa 112,3,2.0
+kwkikwpvkwfkml,P. aeruginosa 1162,3,2.0
+kwkikwpvkwfkml,E.coli ATCC25922,2,2.0
+kwkikwpvkwfkml,E.coli CMCC44102,1,2.0
+kwkikwpvkwfkml,E.coli CICC21530,1,2.0
+kwkikwpvkwfkml,E.coli 110,2,2.0
+kwkikwpvkwfkml,E.coli 162,2,2.0
+kwkikwpvkwfkml,E.coli 166,2,2.0
+kwkikwpvkwfkml,E.coli 203,2,2.0
+kwkikwpvkwfkml,E.coli 208,2,2.0
+kwkikwpvkwfkml,E.coli 210,1,2.0
+kwkikwpvkwfkml,S. enterica ATCC14028,2,2.0
+kwkikwpvkwfkml,S. enterica CMCC50071,2,2.0
+kwmikwpsnwftml,S. aureus CMCC26003,4,2.0
+kwmikwpsnwftml,Ecoli CICC21530,5,2.0
+kwmikwpsnwftml,Ecoli CMCC44102,3,2.0
+kwmikwpsnwftml,K. pneumoniae 826,6,2.0
+kwmikwpsnwftml,Ecoli 103,5,2.0
+kwmikwpsnwftml,Ecoli 110,5,2.0
+kwmikwpsnwftml,P. aeruginosa 119,8,2.0
+kwmikwpsnwftml,PAO1,7,2.0
+kwmikwpsnwftml,E.faecalis 152,8,2.0
+kwmikwpsnwftml,E.faecalis CICC24243,8,2.0
+kwmikwpsnwftml,A. baumannii ATCC19606,5,2.0
+kwmikwpsnwftml,S. aureus 181,5,2.0
+kwmikwpsnwftml,S. aureus ATCC33592,6,2.0
+kwmikwpsnwftml,S. aureus CICC25138,6,2.0
+kwmikwpsnwftml,S. aureus 129,6,2.0
+kwmikwpsnwftml,Salmonella enterica ATCC14028,5,2.0
+kwmikwpsnwftml,Salmonella enterica CMCC50071,5,2.0
+kwmikwpsnwftml,A. baumannii 102,6,2.0
+kwmikwpsnwftml,A. baumannii 106,5,2.0
+kwmikwpsnwftml,A. baumannii 114,6,2.0
+kwmikwpsnwftml,Ecoli 162,5,2.0
+kwmikwpsnwftml,Ecoli 166,5,2.0
+kwmikwpsnwftml,K. pneumoniae ATCC BAA-1705,6,2.0
+kwmikwpsnwftml,P. aeruginosa 116,8,2.0
+kwmikwpsnwftml,E.faecalis ATCC51575,8,2.0
+kwmikwpsnwftml,S. aureus ATCC25923,6,2.0
+kwmikwpwqwftml,S. aureus CMCC26003,4,2.0
+kwmikwpwqwftml,Ecoli CICC21530,6,2.0
+kwmikwpwqwftml,Ecoli CMCC44102,8,2.0
+kwmikwpwqwftml,K. pneumoniae 826,7,2.0
+kwmikwpwqwftml,Ecoli 103,6,2.0
+kwmikwpwqwftml,Ecoli 110,7,2.0
+kwmikwpwqwftml,P. aeruginosa 119,8,2.0
+kwmikwpwqwftml,PAO1,8,2.0
+kwmikwpwqwftml,E.faecalis 152,8,2.0
+kwmikwpwqwftml,E.faecalis CICC24243,7,2.0
+kwmikwpwqwftml,A. baumannii ATCC19606,4,2.0
+kwmikwpwqwftml,S. aureus 181,4,2.0
+kwmikwpwqwftml,S. aureus ATCC33592,5,2.0
+kwmikwpwqwftml,S. aureus CICC25138,4,2.0
+kwmikwpwqwftml,S. aureus 129,4,2.0
+kwmikwpwqwftml,Salmonella enterica ATCC14028,7,2.0
+kwmikwpwqwftml,Salmonella enterica CMCC50071,6,2.0
+kwmikwpwqwftml,A. baumannii 102,6,2.0
+kwmikwpwqwftml,A. baumannii 106,6,2.0
+kwmikwpwqwftml,A. baumannii 114,6,2.0
+kwmikwpwqwftml,Ecoli 162,6,2.0
+kwmikwpwqwftml,Ecoli 166,6,2.0
+kwmikwpwqwftml,K. pneumoniae ATCC BAA-1705,8,2.0
+kwmikwpwqwftml,P. aeruginosa 116,8,2.0
+kwmikwpwqwftml,E.faecalis ATCC51575,6,2.0
+kwmikwpwqwftml,S. aureus ATCC25923,5,2.0
+kwmikwfydwftml,S. aureus CMCC26003,7,2.0
+kwmikwfydwftml,Ecoli CICC21530,8,2.0
+kwmikwfydwftml,Ecoli CMCC44102,8,2.0
+kwmikwfydwftml,K. pneumoniae 826,8,2.0
+kwmikwfydwftml,Ecoli 103,8,2.0
+kwmikwfydwftml,Ecoli 110,8,2.0
+kwmikwfydwftml,P. aeruginosa 119,8,2.0
+kwmikwfydwftml,PAO1,8,2.0
+kwmikwfydwftml,E.faecalis 152,6,2.0
+kwmikwfydwftml,E.faecalis CICC24243,6,2.0
+kwmikwfydwftml,A. baumannii ATCC19606,7,2.0
+kwmikwfydwftml,S. aureus 181,4,2.0
+kwmikwfydwftml,S. aureus ATCC33592,8,2.0
+kwmikwfydwftml,S. aureus CICC25138,8,2.0
+kwmikwfydwftml,S. aureus 129,8,2.0
+kwmikwfydwftml,Salmonella enterica ATCC14028,8,2.0
+kwmikwfydwftml,Salmonella enterica CMCC50071,8,2.0
+kwmikwfydwftml,A. baumannii 102,8,2.0
+kwmikwfydwftml,A. baumannii 106,8,2.0
+kwmikwfydwftml,A. baumannii 114,8,2.0
+kwmikwfydwftml,Ecoli 162,8,2.0
+kwmikwfydwftml,Ecoli 166,8,2.0
+kwmikwfydwftml,K. pneumoniae ATCC BAA-1705,8,2.0
+kwmikwfydwftml,P. aeruginosa 116,8,2.0
+kwmikwfydwftml,E.faecalis ATCC51575,5,2.0
+kwmikwfydwftml,S. aureus ATCC25923,7,2.0
