@@ -80,7 +80,7 @@ Here, `1` indicates which data subset (out of `TOTAL_CHUNKS`) you want to proces
 
 ## Citation
 
-If you use **PeptiD-Agent** in your research, please cite our work.  
+If you find **PeptiD-Agent** useful in your research, please consider citing:
 
 ```bibtex
 @article{KONG2025123927,
