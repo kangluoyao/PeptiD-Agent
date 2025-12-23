@@ -82,3 +82,14 @@ Here, `1` indicates which data subset (out of `TOTAL_CHUNKS`) you want to proces
 
 If you use **PeptiD-Agent** in your research, please cite our work.  
 
+```bibtex
+@article{KONG2025123927,
+  title   = {AI agent-based discovery of D-enantiomeric antimicrobial peptides against multidrug-resistant bacterial infection},
+  author  = {Kong, Qingzhou and Zhao, Yinuo and Gong, Haifan and Kang, Luoyao and Fu, Jialu and Li, Lixiang and Wan, Boyao and Wang, Peizhu and Li, Xiaojuan and Wang, Yue and Zhang, Jinghui and Yu, Yanbo and Yang, Xiaoyun and Zuo, Xiuli and Wang, Haina and Li, Yanqing},
+  journal = {Biomaterials},
+  year    = {2025},
+  pages   = {123927},
+  issn    = {0142-9612},
+  doi     = {10.1016/j.biomaterials.2025.123927},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0142961225008476}
+}
